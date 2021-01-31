@@ -6,15 +6,15 @@ Límites distritales, provinciales y departamentales de Piura (Perú) en formato
 
 Versión detallada:
 
-* [LIM_DISTRITAL_PIURA.json](https://github.com/josedaniel-cb/limites-peru-geojson/blob/main/LIM_DISTRITAL_PERU.json)
-* [LIM_PROVINCIAL_PIURA.json](https://github.com/josedaniel-cb/limites-peru-geojson/blob/main/LIM_PROVINCIAL_PERU.json)
-* [LIM_DEPARTAMENTAL_PIURA.json](https://github.com/josedaniel-cb/limites-peru-geojson/blob/main/LIM_DEPARTAMENTAL_PERU.json)
+* [LIM_DISTRITAL_PIURA.json](https://github.com/josedaniel-cb/limites-piura-geojson/blob/main/LIM_DISTRITAL_PIURA.json)
+* [LIM_PROVINCIAL_PIURA.json](https://github.com/josedaniel-cb/limites-piura-geojson/blob/main/LIM_PROVINCIAL_PIURA.json)
+* [LIM_DEPARTAMENTAL_PIURA.json](https://github.com/josedaniel-cb/limites-piura-geojson/blob/main/LIM_DEPARTAMENTAL_PIURA.json)
 
 Versión simplificada:
 
-* [LIM_DISTRITAL_PIURA_MIN.json](https://github.com/josedaniel-cb/limites-peru-geojson/blob/main/LIM_DISTRITAL_PERU_MIN.json)
-* [LIM_PROVINCIAL_PIURA_MIN.json](https://github.com/josedaniel-cb/limites-peru-geojson/blob/main/LIM_PROVINCIAL_PERU_MIN.json)
-* [LIM_DEPARTAMENTAL_PIURA_MIN.json](https://github.com/josedaniel-cb/limites-peru-geojson/blob/main/LIM_DEPARTAMENTAL_PERU_MIN.json)
+* [LIM_DISTRITAL_PIURA_MIN.json](https://github.com/josedaniel-cb/limites-piura-geojson/blob/main/LIM_DISTRITAL_PIURA_MIN.json)
+* [LIM_PROVINCIAL_PIURA_MIN.json](https://github.com/josedaniel-cb/limites-piura-geojson/blob/main/LIM_PROVINCIAL_PIURA_MIN.json)
+* [LIM_DEPARTAMENTAL_PIURA_MIN.json](https://github.com/josedaniel-cb/limites-piura-geojson/blob/main/LIM_DEPARTAMENTAL_PIURA_MIN.json)
 
 ## Contenido
 
